@@ -19,8 +19,9 @@ last_modified_at: 2020-05-25
 Minimal Mistakes 
 
 1.
-https://github.com/mmistakes/minimal-mistakes/fork
-Minimal mistakes Github Project fork 하여 hahafamilia.github.io 로 이름 변경
+https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+Minimal Mistakes remote theme starter 링크 찾아서 클릭
+"username".github.io
 
 2.
 블로그에 카테고리와 테그, 연도 아카이브로 분류하는 설정
