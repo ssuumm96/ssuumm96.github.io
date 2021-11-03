@@ -25,3 +25,6 @@ Minimal mistakes Github Project fork 하여 hahafamilia.github.io 로 이름 변
 2.
 블로그에 카테고리와 테그, 연도 아카이브로 분류하는 설정
 github.io Repository 에 _pages 디렉토리를 생성하고, category-archive.md, year-archive.md, tag-archive.md 파일을 생성
+
+3.
+_date 디렉토리의 navigation.yml 수정
