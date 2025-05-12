@@ -29,3 +29,5 @@ github.io Repository 에 _pages 디렉토리를 생성하고, category-archive.m
 
 3.
 _date 디렉토리의 navigation.yml 수정
+수정 test
+
