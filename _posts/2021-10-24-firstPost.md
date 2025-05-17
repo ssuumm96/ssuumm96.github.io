@@ -1,5 +1,5 @@
 ---
-title:  "[Jekyll] 첫 블로그 게시물.."
+title:  "[Jekyll] Github 블로그 만들기.."
 excerpt: "md 파일에 마크다운 문법으로 작성하여 Github 원격 저장소에 업로드"
 
 categories:
@@ -14,9 +14,9 @@ date: 2020-05-25
 last_modified_at: 2020-05-25
 ---
 
-첫 번째 포스팅입니다.
-
-Minimal Mistakes 
+Minimal Mistakes 테마 사용
+https://velog.io/@eona1301/Github-Blog-Jekyll-minimal-mistakes-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0
+참고
 
 1.
 https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
@@ -33,7 +33,7 @@ _data 디렉토리의 navigation.yml 수정
 
 
 ###검색기능 추가
-1. layout Seach 기능 사용
+1. layout Seach 기능 사용 (현재 사용중인 방법)
 
 * _data/navigation.yml 수정
 	main:
