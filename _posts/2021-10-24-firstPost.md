@@ -32,3 +32,29 @@ github.io Repository 에 _pages 디렉토리를 생성하고, category-archive.m
 _data 디렉토리의 navigation.yml 수정
 
 
+###검색기능 추가
+1. layout Seach 기능 사용
+
+* _data/navigation.yml 수정
+	main:
+  - title: "Search"
+ url: "/search/"
+
+* _pages/search.md 파일 생성
+---
+title: Search
+layout: search
+permalink: /search/
+author_profile: true
+sidebar:
+ nav: "sidebar-category"
+---
+
+2. lunr 사용
+
+* _config.yml 수정
+search                   : true # true, false (default)
+search_full_content      : true # true, false (default)
+search_provider          : "lunr" # lunr (default), algolia, google
+lunr:
+  search_within_pages    : # true, false (default)
