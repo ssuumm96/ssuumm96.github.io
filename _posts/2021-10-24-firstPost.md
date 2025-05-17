@@ -14,7 +14,7 @@ date: 2020-05-25
 last_modified_at: 2020-05-25
 ---
 
-#Minimal Mistakes 테마 사용
+# Minimal Mistakes 테마 사용
 <https://velog.io/@eona1301/Github-Blog-Jekyll-minimal-mistakes-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0>
 참고
 
@@ -33,16 +33,16 @@ _data 디렉토리의 navigation.yml 수정
 
 * * *
 
-###검색기능 추가
+### 검색기능 추가
 1. layout Seach 기능 사용 (현재 사용중인 방법)
 
->* _data/navigation.yml 수정
+* _data/navigation.yml 수정
 ```
 	main:
 	- title: "Search"
 	url: "/search/"
 ```
->* _pages/search.md 파일 생성
+* _pages/search.md 파일 생성
 ```
 	---
 	title: Search
