@@ -53,6 +53,7 @@ _data 디렉토리의 navigation.yml 수정
 	nav: "sidebar-category"
 	---
 ```
+
 2. lunr 사용
 
 * _config.yml 수정
